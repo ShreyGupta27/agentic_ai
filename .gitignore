@@ -47,7 +47,6 @@ logs/
 Thumbs.db
 
 # Project specific
-agent_state.json
 *.db
 *.sqlite
 
