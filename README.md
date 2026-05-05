@@ -13,9 +13,11 @@ This project demonstrates an agentic AI system that:
 
 ## 🏗️ Architecture
 
+```
 User Input → Gemini (Task Planning) → Task Executor → Tools (Search/Email)
                                             ↓
                                     Memory & State Management
+```
 
 **Components:**
 - **Task Planner**: Uses Gemini to convert natural language to structured JSON tasks
