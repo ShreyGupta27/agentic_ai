@@ -83,13 +83,17 @@ Tasks Generated:
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+Copyright (c) 2026 Shrey Gupta. All rights reserved.
+
+Unauthorized copying, modification, or distribution of this software, via any medium, is strictly prohibited.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## 👤 Author
 
 Shrey Gupta - [GitHub](https://github.com/ShreyGupta27)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Google Gemini for AI capabilities
 - Tavily for web search API
